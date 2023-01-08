@@ -1,9 +1,10 @@
 import './App.css';
+import  HeaderMenu  from './components/HeaderMenu.jsx'
 
 function App() {
   return (
     <div>
-   <h1>Woowly</h1>
+      <HeaderMenu />
     </div>
   );
 }
