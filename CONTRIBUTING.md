@@ -3,10 +3,11 @@
 
 ## How Can I Contribute? 😊
 
-There are many ways you can contribute to the Kings League API, including:
+There are many ways you can contribute to Wowly, including:
 
 - Reporting bugs and submitting feature requests.
 - Writing documentation.
+- Adding new features.
 - Improving the test coverage of the codebase.
 - Submitting code changes and bug fixes.
 
@@ -48,7 +49,7 @@ When writing commit messages, please follow these best practices:
   - "`style`" for formatting changes.
   - "`test`" for changes to tests.
 
-For more information about writing good commit messages, you can refer to [this article](https://midu.dev/buenas-practicas-escribir-commits-git/).
+For more information about writing good commit messages, you can refer to [this article](https://www.conventionalcommits.org/en/v1.0.0/).
 
 ## Reporting Bugs 🐛
 
