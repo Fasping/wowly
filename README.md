@@ -1,3 +1,10 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# CONTRIBUTING
+
+If you would like to help us, please take a moment to read the [CONTRIBUTING.md]() file. You will find useful information there on how to effectively contribute and follow our style guides. We hope you enjoy collaborating with us!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
