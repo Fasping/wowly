@@ -2,7 +2,7 @@
 
 # CONTRIBUTING
 
-If you would like to help us, please take a moment to read the [CONTRIBUTING.md]() file. You will find useful information there on how to effectively contribute and follow our style guides. We hope you enjoy collaborating with us!
+If you would like to help us, please take a moment to read the [CONTRIBUTING.md](https://github.com/Fasping/wowly/blob/main/CONTRIBUTING.md) file. You will find useful information there on how to effectively contribute and follow our style guides. We hope you enjoy collaborating with us!
 
 
 # Getting Started with Create React App
