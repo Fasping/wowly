@@ -37,10 +37,10 @@ function HeaderMenu() {
     <Header>
       <HeaderLogo>Wowly</HeaderLogo>
       <HeaderNav>
-        <HeaderLink href="#">Home</HeaderLink>
-        <HeaderLink href="#">Features</HeaderLink>
-        <HeaderLink href="#">Pricing</HeaderLink>
-        <HeaderLink href="#">Contact</HeaderLink>
+        <HeaderLink href="/">Home</HeaderLink>
+        <HeaderLink href="/features">Features</HeaderLink>
+        <HeaderLink href="/pricing">Pricing</HeaderLink>
+        <HeaderLink href="/contact">Contact</HeaderLink>
       </HeaderNav>
     </Header>
   );
