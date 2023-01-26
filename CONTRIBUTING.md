@@ -1,6 +1,5 @@
 # Contributing to Wowly 🧙🏼‍♂️
 
-
 ## How Can I Contribute? 😊
 
 There are many ways you can contribute to Wowly, including:
